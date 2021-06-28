@@ -1,4 +1,3 @@
 # Work-schedule
 
-a simple calendar application that allows a user to save events for each hour of the day. It runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-
+A ready friendly workday schedule that allows you to fill out your plans every hour added HTML dynamically with jquery
